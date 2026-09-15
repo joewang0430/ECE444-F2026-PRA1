@@ -11,3 +11,7 @@
 ## Activity 3
 
 ![Activity 3 Successful Merge](screenshots/activity3.png)
+
+## Activity 4
+
+![Activity 4 Commits](screenshots/activity4.png)
