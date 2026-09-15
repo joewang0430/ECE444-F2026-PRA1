@@ -15,3 +15,9 @@
 ## Activity 4
 
 ![Activity 4 Commits](screenshots/activity4.png)
+
+## Activity 5
+
+![Activity 5 Rebase](screenshots/activity5_1.png)
+
+![Activity 5 Rebase History](screenshots/activity5_2.png)
